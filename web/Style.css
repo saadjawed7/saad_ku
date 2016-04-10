@@ -1,0 +1,48 @@
+
+#MyHeader2 
+{
+	float:right;
+}
+
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #687E5A;
+    color: white;
+	border-radius:2px;
+}
+  
+#MyHeader3 img #Like {display:block;float: left;margin-left: 16px;margin-top: 22px;clear:both;
+}
+
+
+.MyNo {
+	text-align: right;
+    margin:4px;
+	bottom: 30px ;
+	right: 10px ;
+	font-size: 18px;
+	color: #687E5A ;
+	
+}
+
+
+.MyHeader5
+{
+	clear:both;
+}
+NewsFunction
+.News
+{
+	
+	width:35%;
+	height:auto;
+	border:2px solid black;
+	position:relative;
+	padding-left:20px;
+	margin:auto
+}
+.a
+{
+	color:green;
+}
